@@ -3,6 +3,5 @@
 <body>
 hvfuguy
 <p>some new text</p>
-оипгд
-оитп
+<div>Canvas</div>
 </body>
